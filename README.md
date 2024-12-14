@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm ElPrg !!!</h1>
-<h3 align="center">I love working with electronics, digital and information technology</h3>
+<h3 align="center">I love working with electronics, digitals and information technology</h3>
 
 <p align="center"> <img src="https://github.com/ElPrg.png" alt="ElPrg" width="170" height="170"/> </p>
 
