@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+ElPrg+!!!;I+love+working+with+electronics%2C+digitals+and+information+technology)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋 I'm ElPrg !!!</h1>
 <h3 align="center">I love working with electronics, digitals and information technology</h3>
